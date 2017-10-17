@@ -17,11 +17,13 @@ We started a new [tools](https://github.com/vitalysim/Awesome-Hacking-Resources/
 
 Learning the Skills
 --
+* [Black Hills Information Security Webcasts](https://www.blackhillsinfosec.com/blog/videos/)
 * [Learning Exploitation with Offensive Computer Security 2.0](http://howto.hackallthethings.com/2016/07/learning-exploitation-with-offensive.html)
 * [Cybrary](https://www.cybrary.it/)
 * [OffensiveComputerSecurity](https://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/lectures.html)
 * [CS 642: Intro to Computer Security](http://pages.cs.wisc.edu/~ace/cs642-spring-2016.html)
 * [Free cyber security training](https://www.samsclass.info/)
+* [Fuzzy Security](https://www.fuzzysecurity.com/tutorials.html)
 * [SecurityTube](http://www.securitytube.net/)
 * [Seed Labs](http://www.cis.syr.edu/~wedu/seed/labs.html)
 * [Hak5](https://www.hak5.org/)
